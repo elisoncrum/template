@@ -1,0 +1,19 @@
+body {
+    background-image: url("404rick.gif"); no-repeat center center fixed;
+    background-size: cover;
+}
+
+.text{
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    color: white;
+    font-family: "Lucida Console", "monospace", "monospace";
+    padding-top: 180px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#top {
+    font-size: 75px;
+}
